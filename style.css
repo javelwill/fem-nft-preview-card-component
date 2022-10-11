@@ -35,7 +35,7 @@ body {
 }
 
 .media {
-  background: url('/images/image-equilibrium.jpg');
+  background: url('./images/image-equilibrium.jpg');
   background-size: cover;
   background-position: center;
   height: 278px;

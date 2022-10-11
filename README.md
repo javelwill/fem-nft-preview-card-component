@@ -27,10 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
+![](./screenshot01.png)
+![](./screenshot02.png)
+
 ### Links
 
 - Solution URL: [https://github.com/javelwilson/nft-preview-card-component](https://github.com/javelwilson/nft-preview-card-component)
-- Live Site URL: [https://github.com/javelwilson/nft-preview-card-component](https://github.com/javelwilson/nft-preview-card-component)
+- Live Site URL: [https://javelwilson.github.io/nft-preview-card-component/](https://javelwilson.github.io/nft-preview-card-component/)
 
 ## My process
 
@@ -39,7 +42,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
