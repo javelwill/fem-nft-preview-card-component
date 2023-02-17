@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/javelwilson/nft-preview-card-component](https://github.com/javelwilson/nft-preview-card-component)
-- Live Site URL: [https://javelwilson.github.io/nft-preview-card-component/](https://javelwilson.github.io/nft-preview-card-component/)
+- Solution URL: [https://github.com/javelwilson/fem-nft-preview-card-component](https://github.com/javelwilson/fem-nft-preview-card-component)
+- Live Site URL: [https://javelwilson.github.io/fem-nft-preview-card-component/](https://javelwilson.github.io/fem-nft-preview-card-component/)
 
 ## My process
 
